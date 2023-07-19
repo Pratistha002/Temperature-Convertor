@@ -1,0 +1,33 @@
+Body{
+    background-color:rgb(167, 105, 239);
+}
+main{ 
+background-color: rgb(238, 127, 231);
+margin: 300px 300px;
+}
+
+h1{ 
+text-align: center;
+}
+
+div{
+text-align: center;
+padding: 17px;
+height: 140px;
+border: 10px solid rgb(237, 237, 218);
+
+
+}
+
+main{
+border: 10px solid black;
+}
+#data{
+height: 35px;
+font-size: 14pt;
+background-color:rgb(240, 229, 213);
+}
+
+#hello{
+color:rgb(9, 9, 72);
+}
