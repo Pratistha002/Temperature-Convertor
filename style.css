@@ -1,9 +1,12 @@
 Body{
     background-color:rgb(167, 105, 239);
+     background-image:url('https://akm-img-a-in.tosshub.com/indiatoday/images/story/202303/images_1558164704380_temperature-sixteen_nine.jpg?VersionId=sxvjJJlnG3QgiNjirHUgl0BNttB.X3OT') ;
+    background-size: 100%;
 }
 main{ 
-background-color: rgb(238, 127, 231);
-margin: 300px 300px;
+background-color: rgb(222, 178, 146);
+margin: 250px ;
+padding-top: 10px;
 }
 
 h1{ 
@@ -14,7 +17,8 @@ div{
 text-align: center;
 padding: 17px;
 height: 140px;
-border: 10px solid rgb(237, 237, 218);
+border:10px solid rgb(249, 249, 54);
+
 
 
 }
